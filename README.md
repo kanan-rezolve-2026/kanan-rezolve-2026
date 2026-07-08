@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**kanan-rezolve-2026/kanan-rezolve-2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Kanan Pandit
 
-Here are some ideas to get you started:
+### 🤖 AI & Machine Learning Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📐 Mathematics Graduate | 🎓 M.Sc. Big Data Analytics
+
+💡 Building Intelligent & Scalable AI Systems across LLMs, RAG, Agentic AI, Conversational AI, Speech AI, Computer Vision, and Distributed AI.
+
+---
+
+🚀 Welcome to my GitHub!
+
+I'm passionate about designing and building intelligent AI solutions that solve real-world problems. Here you'll find my projects, experiments, and contributions in AI, Machine Learning, Data Science, and modern intelligent systems.
+
+🌐 **Portfolio:** https://kananpanditportfolio.netlify.app/
+
+⭐ Feel free to explore my repositories, and thanks for visiting!
+
